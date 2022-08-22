@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimCycle", "SimCycle.csproj", "{7594E5A0-C0AD-4D32-B692-5E98566C1D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "database", "..\database\database.csproj", "{7EC6F2B5-A9BC-48A3-9FEC-40621B9E86D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7594E5A0-C0AD-4D32-B692-5E98566C1D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7594E5A0-C0AD-4D32-B692-5E98566C1D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7594E5A0-C0AD-4D32-B692-5E98566C1D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7594E5A0-C0AD-4D32-B692-5E98566C1D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC6F2B5-A9BC-48A3-9FEC-40621B9E86D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC6F2B5-A9BC-48A3-9FEC-40621B9E86D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC6F2B5-A9BC-48A3-9FEC-40621B9E86D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC6F2B5-A9BC-48A3-9FEC-40621B9E86D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E98F28-8562-4A63-99A2-93112A44EDDA}
+	EndGlobalSection
+EndGlobal
